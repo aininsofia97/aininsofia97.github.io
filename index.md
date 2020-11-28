@@ -416,42 +416,7 @@ extends java.lang.Object</pre>
 </main>
 <footer role="contentinfo">
 <nav role="navigation">
-<!-- ======= START OF BOTTOM NAVBAR ====== -->
-<div class="bottom-nav" id="navbar.bottom">
-<div class="skip-nav"><a href="#skip.navbar.bottom" title="Skip navigation links">Skip navigation links</a></div>
-<ul id="navbar.bottom.firstrow" class="nav-list" title="Navigation">
-<li><a href="package-summary.html">Package</a></li>
-<li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="deprecated-list.html">Deprecated</a></li>
-<li><a href="index-files/index-1.html">Index</a></li>
-<li><a href="help-doc.html">Help</a></li>
-</ul>
-</div>
-<div class="sub-nav">
-<div>
-<ul class="sub-nav-list">
-<li>Summary:&nbsp;</li>
-<li>Nested&nbsp;|&nbsp;</li>
-<li>Field&nbsp;|&nbsp;</li>
-<li><a href="#constructor.summary">Constr</a>&nbsp;|&nbsp;</li>
-<li><a href="#method.summary">Method</a></li>
-</ul>
-<ul class="sub-nav-list">
-<li>Detail:&nbsp;</li>
-<li>Field&nbsp;|&nbsp;</li>
-<li><a href="#constructor.detail">Constr</a>&nbsp;|&nbsp;</li>
-<li><a href="#method.detail">Method</a></li>
-</ul>
-</div>
-</div>
-<!-- ======== END OF BOTTOM NAVBAR ======= -->
-<span class="skip-nav" id="skip.navbar.bottom">
-<!--   -->
-</span></nav>
-</footer>
-</div>
-</div>
+<!-- ======= START OF BOTTOM NAVBAR ==
 </body>
 </html>
 
